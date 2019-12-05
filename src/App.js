@@ -16,6 +16,11 @@ class App extends React.Component {
             task: 'Study Google IT Certification',
             id: 2,
             completed: false
+          },
+          {
+            task: 'Walk the Dog',
+            id: 3,
+            completed: false
           }
         ],
         todo: ''
